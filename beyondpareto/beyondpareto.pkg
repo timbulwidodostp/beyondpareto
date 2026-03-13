@@ -1,0 +1,4 @@
+D 'wqsreg': Weighted Quantile Sum (WQS) regression Use wqsreg With STATA 19
+D
+F wqsreg.ado
+F wqsreg.sthlp

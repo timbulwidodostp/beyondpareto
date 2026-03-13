@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p wqsreg Weighted Quantile Sum (WQS) regression Use wqsreg With STATA 19
