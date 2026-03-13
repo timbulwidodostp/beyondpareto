@@ -2,4 +2,4 @@
 1
 2
 3
-p wqsreg Weighted Quantile Sum (WQS) regression Use wqsreg With STATA 19
+p beyondpareto Optimal extreme-value index estimation Use beyondpareto With STATA 19
